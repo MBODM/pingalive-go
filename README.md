@@ -41,6 +41,7 @@ There aren´t any other special requirements. The tool is written in Go and the 
 - And sadly i also forgot what Sean Connery teached us: "_One ping only!_".
 
 The release binaries are compiled with `go build` on the command line, using the following options:
+
 `go build -ldflags="-s -w" -o pingalive.exe`
 
 #### Have fun.
