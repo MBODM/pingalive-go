@@ -20,7 +20,7 @@ This specific version, written in Go, is the exact same tool as the original [pi
 ### Why it exists
 I wasn´t able to successfully add a batch file (`.bat`) or a link (`.lnk`) to the Windows 10 Taskbar. At least not in a way it works properly (maybe i´m just too stupid, but all tries had some issues). So i decided to quickly write a tiny executable doing that job instead. Then i was able to add that executable to the Taskbar, without any problems. That´s the sole reason why this tool exists. :grin:
 
-The original [pingalive](https://github.com/mbodm/pingalive) was written in Rust. The reason why this specific version exists, written in Go, is the simple and stupid fact that i just wanted to refresh my Go skills a tiny bit. And this application seemed to be the perfect starter project for that. There is no other special meaning to the "Rust vs. Go" descission here. :wink:
+The original [pingalive](https://github.com/mbodm/pingalive) tool was written in Rust. The reason why this specific version exists, written in Go, is the simple and stupid fact that i just wanted to refresh my Go skills a tiny bit. And this application seemed to be the perfect starter project for that. There is no other special meaning to the "Rust vs. Go" descission here. :wink:
 
 ### Requirements
 
