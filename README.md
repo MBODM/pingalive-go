@@ -6,7 +6,7 @@ A tiny command line tool for Windows, infinitely pinging a specific server (writ
 ### What it is
 - It´s a very tiny (~50 lines of code) command line executable for Windows.
 - When executed, it endlessly pings a specific server, until closed.
-- It´s used for internet connection testing, for my personal use..
+- It´s used for internet connection testing, for my personal use.
 
 This specific version, written in Go, is the exact same tool as the original [pingalive](https://github.com/mbodm/pingalive) tool, that is written in Rust. For reasons see the [Why it exists](#why-it-exists) section.
 
