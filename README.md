@@ -26,7 +26,7 @@ The original [pingalive](https://github.com/mbodm/pingalive) tool was written in
 
 - 64-bit Windows
 
-There aren´t any other special requirements. The tool is written in Go nd the release binaries are natively compiled with `go build` for the Windows x64 platform, assuming you are using some 64-bit Windows (and that's quite likely).
+There aren´t any other special requirements. The tool is written in Go and the release binaries are natively compiled with `go build` for the Windows x64 platform, assuming you are using some 64-bit Windows (and that's quite likely).
 
 ### Notes
 - The tool is written in Go (golang)
