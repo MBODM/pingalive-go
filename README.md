@@ -18,7 +18,7 @@ A tiny command line tool for Windows, infinitely pinging a specific server (writ
 ### Why it exists
 I wasn´t able to successfully add a batch file (`.bat`) or a link (`.lnk`) to the Windows 10 Taskbar. At least not in a way it works properly (maybe i´m just too stupid, but all tries had some issues). So i decided to quickly write a tiny executable doing that job instead. Then i was able to add that executable to the Taskbar, without any problems. That´s the sole reason why this tool exists. :grin:
 
-The reason why this specific version exits, written in Go (the original code is written in Rust), is: I just wanted to refresh my Go skills a bit and this application seems to be the perfect starter project for this. :)
+The reason why this specific version exits, written in Go (the original code is written in Rust), is: I just wanted to refresh my Go skills a bit and this application seems to be the perfect starter project for this.
 
 ### Requirements
 
