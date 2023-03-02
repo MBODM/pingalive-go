@@ -36,10 +36,10 @@ There aren´t any other special requirements. The tool is written in Go and the 
 - The executable size is 1.6 MB (the Rust version is 219 KB)
 - The tool is developed with `VS Code 1.76.0` (with active `Go` extension)
 - The tool is using a `cmd.exe /c start ping.exe` approach
-- Approach-Reason1: Text issues with the non-UTF8 Windows console.
-- Approach-Reason2: The CTRL+C handling (or the need of `SetConsoleCtrlHandler` Windows calls).
-- Approach-Reason3: Way more complexity (maintain child process, stdout, signals).
-- And sadly i also forgot what Sean Connery teached us: "_One ping only!_".
+- Approach-Reason1: Text issues with the non-UTF8 Windows console
+- Approach-Reason2: The CTRL+C handling (or the need of `SetConsoleCtrlHandler` Windows calls)
+- Approach-Reason3: Way more complexity (maintain child process, stdout, signals)
+- And sadly i also forgot what Sean Connery teached us: "_One ping only!_"
 
 The release binaries are compiled with `go build` on the command line, using the following options:
 
